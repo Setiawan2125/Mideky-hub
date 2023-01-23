@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mathieu KEBREL alias Mideky !
-- 👀 I’m interested in Cyber-security on Kali Linux and mainly programmation in C / C# / C++ / Java and web-design !
+- 👀 I'm a computer science students who is passionated about programming and software engineer and I am planning on changing the way developers work
 
 <!---
 Mideky-hub/Mideky-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
