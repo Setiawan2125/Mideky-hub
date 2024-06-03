@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Mathieu KEBREL alias Mideky !
-- 👀 I'm a computer science students who is passionated about programming and software engineer and I am planning on changing the way developers work
+I'm a software engineer, I love programming in C++ and Python, I love working on project, sometimes open sources, for more information, contact me.
 
 <!---
 Mideky-hub/Mideky-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
